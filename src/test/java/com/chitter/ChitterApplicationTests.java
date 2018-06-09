@@ -1,4 +1,4 @@
-package com.example.chitter;
+package com.chitter;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
